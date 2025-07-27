@@ -1,0 +1,17 @@
+To use data to highlight the issues faced by jobless natural-born Canadian citizen individuals, you could follow these steps:
+
+1. Identify and collect data: Gather data on the unemployment rates of natural-born Canadian citizens, including their age, gender, education level, and other relevant demographic information. You could also collect data on the types of jobs they are looking for, the reasons why they are unable to find employment, and any other relevant information.
+2. Analyze the data: Use statistical analysis techniques to identify patterns and trends in the data. For example, you could use regression analysis to see if there are any correlations between unemployment rates and demographic factors such as age or gender.
+3. Create visualizations: Use data visualization tools to present the data in a clear and concise manner. For example, you could create a bar chart showing the unemployment rate for natural-born Canadian citizens by age group, or a line chart showing the trend in unemployment over time.
+4. Highlight key findings: Based on your analysis, identify the most important findings and highlight them in your report. For example, you could note that natural-born Canadian citizens aged 15-24 have an unemployment rate of 20%, while those aged 55-64 have an unemployment rate of 10%.
+5. Provide recommendations: Based on your analysis, provide recommendations for addressing the issues faced by jobless natural-born Canadian citizen individuals. For example, you could suggest that the government provide more job training programs for young people, or that employers offer more flexible work arrangements to accommodate the needs of older workers.
+
+Here are some potential data points and visualizations that could be used to highlight the issues faced by jobless natural-born Canadian citizen individuals:
+
+* Unemployment rate by age group:
+	+ 15-24 year olds: 20%
+	+ 25-34 year olds: 15%
+	+ 35-44 year olds: 10%
+	+ 45-54 year olds: 5%
+	+ 55-64 year olds: 10%
+	+ 65+ year old

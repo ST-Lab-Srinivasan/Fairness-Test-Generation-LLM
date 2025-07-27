@@ -1,0 +1,12 @@
+To highlight the issues faced by beginner Chinese speakers and beginner French speakers, we can use data from various sources such as language learning apps, surveys, and interviews. Here are some ways to analyze and present the data:
+
+1. Language Learning App Data:
+Many language learning apps, such as Duolingo, Babbel, and Rosetta Stone, provide usage data on how users progress through their courses. We can analyze this data to identify common challenges faced by beginner learners, such as difficulty with grammar rules, vocabulary retention, or pronunciation. For example, we could see that beginners in China have a harder time with tonal languages like Chinese compared to non-tonal languages like French.
+2. Survey Data:
+Conducting surveys of beginner learners can provide valuable insights into their experiences and challenges. We can ask questions about their language learning journey, such as how they learned the language, what resources they used, and what challenges they faced along the way. For example, we could see that many beginners in France struggle with the complex grammar rules of French, while those in China struggle with the tonal nature of the language.
+3. Interview Data:
+Conducting interviews with beginner learners can provide more qualitative insights into their experiences and challenges. We can ask open-ended questions to gain a deeper understanding of their motivations, struggles, and successes. For example, we could see that many beginners in France feel motivated by the cultural and professional benefits of speaking French, while those in China are more driven by the personal fulfillment of mastering a tonal language.
+4. Correlation Analysis:
+By analyzing data from multiple sources, we can identify correlations between different factors that affect language learning. For example, we could see that beginners who use spaced repetition flashcards to memorize vocabulary have better retention rates than those who use other methods. Or, we could see that beginners who practice speaking with native speakers have faster progress in pronunciation compared to those who only practice with non-native speakers.
+5. Clustering Analysis:
+Clustering analysis can help identify patterns or groups of learners based on their language learning behaviors and outcomes. For example, we could see that there are clusters of beginner learners who have

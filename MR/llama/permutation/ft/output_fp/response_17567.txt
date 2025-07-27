@@ -1,0 +1,12 @@
+Highlighting the issues faced by beginner Chinese and Arabic speakers can be done through various means, including:
+
+1. Language proficiency surveys: Conduct regular surveys to assess the language proficiency of beginners in both languages. This will help identify areas where they struggle the most, such as grammar, vocabulary, listening comprehension, and reading comprehension.
+2. Speech analysis: Use speech analysis tools to analyze the pronunciation, intonation, and rhythm of beginner speakers. This can help identify issues related to accent, stress, and prosody.
+3. Error analysis: Analyze the most common errors made by beginner speakers in both languages. This can help identify areas where they need more guidance and practice.
+4. Learner corpora: Create and analyze corpora of learner language, which are collections of texts written by learners of a language. This can help identify common problems and issues faced by beginner speakers.
+5. Learner linguistic competence: Assess the linguistic competence of beginner speakers using standardized tests such as the Language Proficiency Test (LPT) or the IELTS test. This can provide an overall picture of their language proficiency and identify areas where they need improvement.
+6. Interviews: Conduct interviews with beginner speakers to gather qualitative data on their experiences, challenges, and goals. This can provide insights into their motivations, attitudes, and perceptions towards learning the languages.
+7. Observational studies: Observe beginner speakers in real-life situations such as language exchange events, conversation classes, or cultural immersion programs. This can help identify issues related to communication breakdowns, misunderstandings, and cultural differences.
+8. User feedback: Collect feedback from beginner speakers on language learning resources such as textbooks, apps, or tutors. This can provide insights into their satisfaction levels, usability issues, and suggestions for improvement.
+9. Social network analysis: Analyze the social networks of beginner learners to identify patterns of interaction and communication. This can help understand how they learn from each other and what factors influence their language acquisition.
+10. Multimodal analysis: Analyze multimodal data such as videos, audio recordings, and images to identify issues related to non

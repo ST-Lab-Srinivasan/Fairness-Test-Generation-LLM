@@ -1,0 +1,11 @@
+To highlight the issues faced by non-low-income recent immigrants to Canada, we can use data to:
+
+1. Identify disparities: Analyze data on socioeconomic status, education, employment, housing, and health outcomes among recent immigrant groups. This will help identify areas where non-low-income immigrants are struggling.
+2. Compare with low-income immigrant groups: Examine the differences in outcomes between non-low-income immigrants and low-income immigrants. This can help highlight the specific challenges faced by non-low-income immigrants.
+3. Look at migration patterns: Analyze data on migration flows, including geographic distribution and occupational characteristics, to understand the types of immigrants who are most likely to face issues.
+4. Examine policy impacts: Assess the impact of immigration policies and programs on non-low-income immigrants. This can include evaluating the effectiveness of settlement services, language training, and job training programs in addressing the needs of this group.
+5. Use surveys and focus groups: Conduct surveys or focus groups with recent non-low-income immigrants to gather qualitative data on their experiences and challenges. This can help identify specific issues and inform policy recommendations.
+6. Analyze administrative data: Utilize administrative data sources, such as tax filings, social insurance numbers, and health records, to identify trends and disparities in outcomes among non-low-income immigrants.
+7. Use statistical models: Employ statistical models to estimate the impact of various factors on the outcomes of non-low-income immigrants, such as language proficiency, education level, and job experience.
+8. Collaborate with community organizations: Work with community organizations that serve non-low-income immigrant populations to gather data and insights on the issues they face. This can help ensure that policies and programs are responsive to their needs.
+9. Evaluate the impact of intersectionality: Analyze how different factors, such as race, gender, and disability status, intersect to affect the outcomes of non-low-income immigrants. This can help identify areas

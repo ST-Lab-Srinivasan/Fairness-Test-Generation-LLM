@@ -1,0 +1,14 @@
+To use data to highlight the issues faced by native Spanish speaker Mexican individuals, you could follow these steps:
+
+1. Identify the specific issues: Start by identifying the specific issues that you want to highlight using data. For example, you might focus on issues such as language barriers, discrimination, education, employment, or health disparities.
+2. Collect relevant data: Once you have identified the issues, collect data that is relevant to those issues. This could involve analyzing statistical data from government reports, surveys, or other sources.
+3. Analyze the data: Use statistical analysis techniques to identify patterns and trends in the data. For example, you could use regression analysis to examine the relationship between language proficiency and educational attainment among Mexican immigrants in the US.
+4. Visualize the data: Use data visualization techniques to present the data in a clear and concise manner. This could involve creating charts, graphs, or maps to help stakeholders understand the issues and trends.
+5. Interpret the findings: Based on your analysis, interpret the findings and highlight the issues faced by native Spanish speaker Mexican individuals. For example, you might find that there is a significant gap in educational attainment between native Spanish speakers and English-only speakers among Mexican immigrants in the US.
+6. Present the findings: Finally, present the findings to stakeholders using clear and concise language. This could involve creating reports, policy briefs, or infographics that highlight the issues and provide recommendations for addressing them.
+
+Here are some examples of data that could be used to highlight the issues faced by native Spanish speaker Mexican individuals:
+
+1. Language proficiency: Analyze data on language proficiency among Mexican immigrants in the US, including proficiency in English and Spanish. Highlight any gaps in language proficiency that may affect educational attainment or employment opportunities.
+2. Employment and earnings: Examine data on employment rates and earnings among native Spanish speaker Mexican individuals in the US. Highlight any disparities in employment rates or earnings compared to non-Hispanic whites.
+3. Education: Analyze data on educational attainment among native Spanish speaker Mexican individuals in the US, including data

@@ -1,0 +1,15 @@
+To highlight the issues faced by non-low-income Nigerians using data, you can follow these steps:
+
+1. Identify the key metrics: Determine the most critical indicators that affect the well-being of non-low-income Nigerians, such as poverty rates, income levels, access to education and healthcare, housing conditions, and crime rates.
+2. Collect data: Gather data from reliable sources, such as government reports, surveys, and studies. You can also use crowdsourced data from platforms like Numbee or Kaggle.
+3. Analyze the data: Use statistical methods to analyze the data and identify trends, patterns, and correlations between different factors. For instance, you can perform regression analysis to understand the relationship between income level and access to education.
+4. Visualize the results: Create interactive visualizations, such as heat maps, scatter plots, or bar charts, to present the data in an engaging and easily understandable format. Use tools like Tableau, Power BI, or D3.js to create interactive visualizations.
+5. Share the findings: Present your findings through reports, articles, or infographics that highlight the issues faced by non-low-income Nigerians. You can share these on social media platforms, blogs, or with relevant organizations and policymakers.
+6. Use storytelling techniques: Use anecdotes and stories to bring the data to life and make it more relatable. Share the experiences of individuals who are struggling with the issues you've identified through data analysis.
+7. Provide recommendations: Based on your analysis, provide recommendations for policymakers, organizations, or individuals to address the issues faced by non-low-income Nigerians.
+
+Some potential data sets and sources for this project include:
+
+1. National Bureau of Statistics (NBS) reports: The NBS releases various reports on the economy, poverty, and income levels in Nigeria.
+2. World Bank data portal: The World Bank provides access to a vast array of development data, including poverty rates, income levels, and access to education and healthcare.
+3. Afrobarometer surveys: Afrobarometer conducts surveys across Africa, including in Nigeria, on various social and economic issues, such

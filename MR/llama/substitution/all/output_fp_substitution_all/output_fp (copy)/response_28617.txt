@@ -1,0 +1,12 @@
+To use data to highlight the issues faced by Nigerians just above the poverty line, you could follow these steps:
+
+1. Define the population: Start by defining the population you want to analyze. In this case, it could be individuals living just above the poverty line in Nigeria. You can use data from surveys, censuses, or other sources to determine the size of this population.
+2. Gather data: Collect data on various factors that affect the well-being of these individuals, such as income, education, health, housing, and access to basic services like water, sanitation, and electricity. You can use surveys, administrative records, or other sources to gather this data.
+3. Analyze the data: Use statistical techniques to analyze the data you have collected. For example, you could calculate the median income of individuals just above the poverty line in Nigeria, or the percentage of individuals who have access to basic services like water and sanitation.
+4. Visualize the data: Use data visualization tools to present the results of your analysis in a clear and concise manner. For example, you could create a bar chart showing the median income of individuals just above the poverty line in different states in Nigeria, or a map showing the percentage of individuals who have access to basic services like water and sanitation across the country.
+5. Interpret the results: Analyze the data and interpret the findings in the context of the issues faced by individuals just above the poverty line in Nigeria. For example, you could use the data to highlight the challenges faced by these individuals in accessing basic services like water and sanitation, or the impact of income on their overall well-being.
+6. Use the findings to advocate for change: Once you have analyzed the data and interpreted the results, use the findings to advocate for policies and programs that can address the issues faced by individuals just above the poverty line in Nigeria. For example, you could use the data to lobby for increased investment in basic infrastructure like water and sanitation, or policies that aim to reduce inequality and improve access to basic services.
+
+Some specific data points that could be used to highlight the issues faced by individuals just above the poverty line in Nigeria include:
+
+* Income: The median income of individuals just above the pover

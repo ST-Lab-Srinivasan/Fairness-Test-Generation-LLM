@@ -1,0 +1,11 @@
+Highlighting the issues faced by individuals living in deep poverty in Mexico can be a complex task, as it involves understanding and analyzing various socio-economic factors that contribute to their situation. Here are some ways data can be used to highlight these issues:
+
+1. Poverty rates: Collect and analyze data on the official poverty rate in Mexico, which is typically measured using a household consumption-based poverty line. This can help identify trends and patterns in poverty levels over time and across different regions.
+2. Income distribution: Analyze income distribution data to understand the gap between the rich and poor in Mexico. This can help identify the concentration of wealth among a small elite and the extent of inequality in the country.
+3. Access to basic services: Collect data on access to basic services such as healthcare, education, and sanitation. This can help identify areas where individuals living in deep poverty may have limited access to these essential services.
+4. Nutrition: Analyze data on nutrition intake, including the prevalence of malnutrition and micronutrient deficiencies. This can help identify issues related to food security and nutritional health among individuals living in deep poverty.
+5. Vulnerability indices: Develop vulnerability indices that take into account multiple factors such as income, education, health, and access to basic services. These indices can help identify areas where individuals are most vulnerable to poverty and social exclusion.
+6. Geographic information systems (GIS): Use GIS to map out the geographic distribution of deep poverty in Mexico. This can help identify spatial patterns and clusters of poverty, which can inform targeted interventions.
+7. Survey research: Conduct surveys among individuals living in deep poverty to gather qualitative data on their experiences and perceptions. This can help provide a more nuanced understanding of the issues faced by this population.
+8. Life expectancy: Analyze data on life expectancy at birth for Mexico as a whole, as well as for different regions and socioeconomic groups. This can help identify areas where individuals living in deep poverty may have lower life expectancies compared to the general population.
+9. Infant mortality: Collect data on infant mortality rates for Mexico as a whole, as well

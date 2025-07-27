@@ -1,0 +1,1328 @@
+File: response_1.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_10.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_100.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_101.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_102.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_103.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_104.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_105.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_106.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Negative Tone
+
+File: response_107.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_108.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_109.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_11.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_110.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_111.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_112.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_113.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_114.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_115.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_116.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_117.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_118.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_119.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_12.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_120.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_121.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_122.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_123.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_124.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_125.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_126.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_127.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_128.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_129.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_13.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_130.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_131.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_132.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_133.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_134.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_135.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_136.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_137.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_138.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_139.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_14.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_140.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_141.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_142.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_143.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_144.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_145.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_146.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_147.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_148.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_149.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_15.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_150.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_151.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_152.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_153.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_154.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_155.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_156.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_157.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_158.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_159.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_16.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_160.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_161.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_162.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_163.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_164.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_165.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_166.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_167.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_168.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_169.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_17.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_170.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_171.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_172.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_173.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_174.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_175.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_176.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_177.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_178.txt
+Tone of File 1: Negative Tone
+Tone of File 2: Neutral Tone
+
+File: response_179.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_18.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_180.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_181.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_182.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_183.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_184.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_185.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_186.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_187.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_188.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_189.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_19.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_190.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_191.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_192.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_193.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_194.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_195.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_196.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_197.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_198.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_199.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_2.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_20.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_200.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_201.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_202.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_203.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_204.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_205.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_206.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_207.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_208.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_209.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_21.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_210.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_211.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_212.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_213.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_214.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_215.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_216.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_217.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_218.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_219.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_22.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_220.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_221.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_222.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_223.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_224.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_225.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_226.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_227.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_228.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_229.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_23.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_230.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_231.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_232.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_233.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_234.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_235.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_236.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_237.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_238.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_239.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_24.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_240.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_241.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_242.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_243.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_244.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_245.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_246.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_247.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_248.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_249.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_25.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_250.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_251.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_252.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_253.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_254.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_255.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_256.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_257.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_258.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_259.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_26.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_260.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_261.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_262.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_263.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_264.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_265.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_266.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_267.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_268.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_269.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_27.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_270.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_271.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_272.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_273.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_274.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_275.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_276.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_277.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_278.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_279.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_28.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_280.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_281.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_282.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_283.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_284.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_285.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_286.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_287.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_288.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_289.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_29.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_290.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_291.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_292.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_293.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_294.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_295.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_296.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_297.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_298.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_299.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_3.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_30.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_300.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_301.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_302.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_303.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_304.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_305.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_306.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_307.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_308.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_309.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_31.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_310.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_311.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_312.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_313.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_314.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_315.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_316.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_317.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_318.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_319.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_32.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_320.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_321.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_322.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_323.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_324.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_325.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_326.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_327.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_328.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_329.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_33.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_330.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_331.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_332.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_34.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_35.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_36.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_37.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_38.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_39.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_4.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_40.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_41.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_42.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_43.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_44.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_45.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_46.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_47.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_48.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_49.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_5.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_50.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_51.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_52.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_53.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_54.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_55.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_56.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_57.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_58.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_59.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_6.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_60.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_61.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_62.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_63.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_64.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_65.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_66.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_67.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_68.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_69.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_7.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_70.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_71.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_72.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_73.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_74.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_75.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_76.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_77.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_78.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_79.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_8.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_80.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_81.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_82.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_83.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_84.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_85.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_86.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_87.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_88.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_89.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_9.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Positive Tone
+
+File: response_90.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_91.txt
+Tone of File 1: Neutral Tone
+Tone of File 2: Neutral Tone
+
+File: response_92.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_93.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_94.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_95.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_96.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_97.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Neutral Tone
+
+File: response_98.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+
+File: response_99.txt
+Tone of File 1: Positive Tone
+Tone of File 2: Positive Tone
+

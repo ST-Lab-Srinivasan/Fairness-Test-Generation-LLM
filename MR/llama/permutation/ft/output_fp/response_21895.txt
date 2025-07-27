@@ -1,0 +1,14 @@
+To use data to highlight the issues faced by not just above poverty line beginner Spanish speaker individuals, you can follow these steps:
+
+1. Identify the target population: Determine the specific group of people you want to focus on, such as low-income individuals, immigrants, or those living in rural areas.
+2. Gather data: Collect data on the language proficiency levels, access to educational resources, and socio-economic status of the target population. You can use surveys, interviews, or existing datasets to gather this information.
+3. Analyze the data: Use statistical methods to analyze the data you have collected. Look for patterns and trends in language proficiency levels, access to educational resources, and socio-economic status among different subgroups within the target population.
+4. Create visualizations: Use data visualization tools to present the findings in a clear and concise manner. This can include bar charts, line graphs, and maps to show the distribution of language proficiency levels, access to educational resources, and socio-economic status among different subgroups within the target population.
+5. Interpret the results: Analyze the data visualizations and explain the findings in context. For example, you might find that language learners from low-income backgrounds have lower proficiency levels than those from higher-income backgrounds. You can also identify areas where there are significant disparities in access to educational resources or socio-economic status.
+6. Present the findings: Share the results with relevant stakeholders, such as policymakers, educators, and community leaders. Use the data to make recommendations for addressing the issues faced by beginner Spanish speakers from marginalized groups.
+7. Monitor progress: Track changes in language proficiency levels, access to educational resources, and socio-economic status over time to see if your recommendations are having a positive impact.
+
+Some potential data sources for this project include:
+
+1. Government statistics: National and local governments often collect data on socio-economic status, language proficiency levels, and access to educational resources.
+2. Surveys: Conducting surveys among beginner Spanish learners can provide valuable insights into their experiences and challeng

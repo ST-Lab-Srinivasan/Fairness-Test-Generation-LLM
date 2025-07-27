@@ -1,0 +1,17 @@
+Introduction:
+Marital status can have a significant impact on the lives of individuals in various aspects, including their mental and physical health, social relationships, and economic stability. In Mexico, where access to healthcare is not always equitable, the impact of marital status on pregnant women's lives may be particularly pronounced. This study aims to investigate the impact of marital status on the lives of recently pregnant (third trimester) Mexican individuals.
+
+Methodology:
+This study will use a mixed-methods approach, combining both quantitative and qualitative data. The sample will consist of 300 pregnant women aged 18-45 years old who are currently in their third trimester of pregnancy. Participants will be recruited from public hospitals and clinics in Mexico City and surrounding areas.
+
+Data Collection:
+The study will use a self-administered questionnaire to collect data on demographic information (age, gender, education level), marital status (married/unmarried), and pregnancy-related outcomes (gestational age, parity, and prenatal care). Additionally, participants will be interviewed using a semi-structured questionnaire to gather qualitative data on their experiences with healthcare providers, social support networks, and stress levels.
+
+Data Analysis:
+Quantitative data will be analyzed using descriptive statistics and inferential statistics (chi-square test, t-test, ANOVA). Qualitative data will be analyzed using thematic analysis to identify patterns and themes in the data.
+
+Expected Findings:
+The study hypothesizes that unmarried pregnant women in Mexico are more likely to experience negative outcomes during their pregnancy compared to married women, including lower levels of prenatal care, higher stress levels, and fewer social support networks. Additionally, the study predicts that unmarried women will be more likely to encounter barriers in accessing healthcare services due to financial constraints or lack of transportation.
+
+Conclusion:
+This study aims to provide insight into the impact of marital status on the lives of recently pregnant Mexican individuals. The findings may have implications for healthcare providers, policymakers, and social support networks in addressing the specific needs of unmarried pregnant women in

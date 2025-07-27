@@ -1,0 +1,14 @@
+To highlight the issues faced by non-lower middle-income natural-born US citizen individuals using data, you can follow these steps:
+
+1. Identify the population of interest: Define the specific group of individuals you want to analyze, such as those born in the US but not from wealthy families. You can use demographic information such as age, gender, race, and education level to segment the population.
+2. Gather data: Collect data on the socioeconomic status of the population you've identified. This can include income levels, access to healthcare, educational attainment, and other relevant metrics. You can use government datasets, surveys, or other sources of data.
+3. Analyze the data: Use statistical methods to analyze the data and identify trends and patterns in the socioeconomic status of the population. For example, you could calculate the median income for this group and compare it to the national average, or look at the percentage of individuals who lack access to healthcare.
+4. Visualize the data: Use data visualization techniques to present the findings in a clear and compelling way. This can include charts, graphs, maps, and other types of visualizations that help to illustrate the issues faced by this population.
+5. Interpret the results: Analyze the findings and interpret what they mean in terms of the issues faced by non-lower middle-income natural-born US citizen individuals. For example, if you found that this group has a lower median income than other populations, you could interpret that as a sign of economic insecurity.
+6. Provide recommendations: Based on the findings and interpretation, provide recommendations for addressing the issues faced by this population. This could include policy changes, community-based interventions, or other types of solutions that could help to improve their socioeconomic status.
+7. Share the results: Present the findings and recommendations to relevant stakeholders, such as policymakers, nonprofit organizations, or community leaders. This can help to raise awareness about the issues faced by this population and promote change.
+
+Some potential data sources for this analysis include:
+
+* US Census Bureau datasets, such as the American Community Survey (ACS) and the Decennial Census
+* The US Bureau of Labor Statistics (

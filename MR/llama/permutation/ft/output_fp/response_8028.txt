@@ -1,0 +1,15 @@
+To highlight the issues faced by upper middle-income natural-born US citizen individuals using data, you can follow these steps:
+
+1. Define the scope of the analysis: Determine the specific group of individuals you want to focus on (e.g., age range, geographic location, occupation).
+2. Gather data: Collect relevant data from reliable sources such as government reports, surveys, and studies. Some examples of data you could collect include:
+	* Income levels: Use data from the US Census Bureau or other sources to determine the median income for upper middle-income individuals in the US. Compare this to the national average to highlight any disparities.
+	* Education levels: Determine the percentage of upper middle-income individuals who have a college degree compared to the overall population. You could also analyze the field of study or profession.
+	* Housing costs: Use data from sources like Zillow or Redfin to determine the median home prices in various locations across the US. Compare these prices to the income levels of upper middle-income individuals to see if they are affordable.
+	* Healthcare access: Analyze data on health insurance coverage and access to healthcare services for upper middle-income individuals. You could also look at health outcomes such as life expectancy or infant mortality rates.
+3. Analyze the data: Once you have gathered the necessary data, analyze it using statistical methods or visualization techniques to identify trends and patterns. For example, you could use a bar graph to compare the median income of upper middle-income individuals across different regions of the US.
+4. Interpret the findings: Based on your analysis, explain what the data means in the context of the issues faced by upper middle-income natural-born US citizen individuals. For example, if you found that upper middle-income individuals have a lower median income than the overall population, you could explain how this contributes to wealth inequality in the US.
+5. Present the findings: Use visualizations and clear language to present your findings to your audience. You could create infographics, charts, or even short videos to help communicate your message.
+
+Some potential data points to consider include:
+
+* Income inequality: Analyze the distribution of income among upper middle-income

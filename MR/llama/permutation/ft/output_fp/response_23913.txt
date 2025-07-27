@@ -1,0 +1,12 @@
+To highlight the issues faced by beginner Arabic and Chinese speakers, we can use data from various sources, such as language learning apps, surveys, and educational research studies. Here are some ways to use data:
+
+1. Language learning app usage data: Analyze data on how long users spend on language learning apps, what features they use the most, and which ones they struggle with. This can help identify areas where beginner learners may need more support or practice. For example, if beginners are spending most of their time on grammar exercises but struggling with vocabulary, you could create additional resources to help them build vocabulary.
+2. Survey data: Conduct surveys among beginner Arabic and Chinese learners to gather information about their challenges, goals, and learning habits. Questions can cover topics such as:
+	* What are the biggest challenges you face when learning Arabic/Chinese?
+	* How much time do you dedicate to language learning each week?
+	* Do you prefer structured lessons or free-form practice?
+	* What resources do you use most often (e.g., textbooks, language exchange partners, apps)?
+3. Educational research studies: Review studies on language learning and cognition to identify factors that affect learner success, such as motivation, self-efficacy, and metacognitive skills. These insights can help create targeted interventions or strategies to support beginner learners. For instance, a study may show that learners who use spaced repetition to review vocabulary are more likely to retain it than those who review it infrequently.
+4. User feedback: Collect and analyze user feedback from beginners on language learning platforms or apps. This can help identify specific issues they encounter, such as trouble with certain grammar rules or difficulties with pronunciation. Based on this information, you could create tailored resources or features to address these challenges.
+5. Learning analytics: Use machine learning algorithms to analyze learners' behavior and progress data, identifying patterns that may indicate areas where they struggle. For example, if a learner spends more time on a particular section than expected, it could suggest they need additional practice or review in that area.
+6. Learner demographics: Analyze data on the age,

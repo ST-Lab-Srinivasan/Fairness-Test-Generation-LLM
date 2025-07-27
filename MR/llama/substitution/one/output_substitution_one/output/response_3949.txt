@@ -1,0 +1,11 @@
+Highlighting the issues faced by individuals living in deep poverty, particularly in Mexico, can be a complex and nuanced task. Here are some ways that data can be used to shed light on this issue:
+
+1. Use income data: One way to measure poverty is by income level. According to the World Bank, in 2020, the official poverty line in Mexico was set at $4.65 per day. Using data on income levels can help identify areas where poverty is most prevalent and track changes over time.
+2. Analyze access to basic services: Access to basic services such as healthcare, education, and sanitation can be an indicator of poverty. Data on the availability and quality of these services can help identify areas where individuals are lacking access.
+3. Examine food security data: Food insecurity is a common issue in many parts of Mexico. Data on food consumption patterns and access to nutritious food can help identify areas where individuals are struggling to access adequate food.
+4. Look at housing conditions: Poor living conditions, such as overcrowding and lack of access to basic amenities like running water and electricity, can be a sign of poverty. Data on housing conditions can help identify areas where individuals are living in substandard conditions.
+5. Use satellite imagery: Satellite imagery can provide valuable insights into poverty in remote or hard-to-reach areas. By analyzing patterns of land use and development, researchers can identify areas where poverty is more prevalent.
+6. Examine migration data: Migration can be a factor in poverty, particularly in areas where there are limited economic opportunities. Data on migration patterns can help identify areas where individuals are moving to escape poverty.
+7. Look at health data: Poor health outcomes can be a result of poverty. Data on health indicators such as infant mortality rates, life expectancy, and disease prevalence can help identify areas where individuals are struggling with poor health outcomes.
+8. Use survey data: Surveys can provide valuable insights into the experiences and perceptions of individuals living in poverty. By asking questions about access to resources, economic opportunities, and social support, researchers can gain a better understanding of the issues faced by these individuals.
+9

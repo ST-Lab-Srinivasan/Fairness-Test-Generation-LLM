@@ -1,0 +1,12 @@
+Highlighting the issues faced by individuals living in poverty, particularly those in rural areas, is crucial for addressing the underlying social and economic problems. Here are some ways to use data to shed light on the challenges faced by low-income Mexicans:
+
+1. Poverty rates: Calculate the official poverty rate in Mexico using data from the National Council for the Evaluation of Social Development Policy (Coneval). This will provide an overall picture of the extent of poverty in the country.
+2. Income distribution: Analyze income inequality by examining data on the distribution of wealth and income. Tools like Gini coefficients can help measure the level of inequality.
+3. Access to basic services: Assess the availability and accessibility of basic services such as healthcare, education, and sanitation. Data from government agencies or NGOs can provide insights into service coverage and quality.
+4. Labor market conditions: Examine employment data to identify the types of jobs available, wages, and labor market trends. This can help understand the opportunities and challenges faced by low-income individuals in Mexico.
+5. Housing conditions: Analyze data on housing conditions, including access to safe and affordable housing, to better understand the living conditions of low-income households.
+6. Health outcomes: Assess health outcomes such as infant mortality, life expectancy, and disease prevalence to identify the health challenges faced by low-income populations. Data from government agencies or NGOs can provide insights into these issues.
+7. Education outcomes: Examine data on educational attainment, dropout rates, and access to quality education to understand the barriers to education faced by low-income individuals in Mexico.
+8. Access to social services: Assess the availability and accessibility of social services such as food assistance, social security, and mental health support. Data from government agencies or NGOs can provide insights into the reach and impact of these services.
+9. Environmental factors: Consider environmental factors that may affect low-income communities, such as air pollution, water quality, and access to green spaces. Data on environmental conditions can help identify potential health risks and opportunities for interventions.
+10. Geospatial analysis

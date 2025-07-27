@@ -1,0 +1,1396 @@
+File: response_1.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_10.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_100.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_101.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_102.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_103.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_104.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_105.txt
+Tone of File 1: anger
+Tone of File 2: fear
+
+File: response_106.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_107.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_108.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_109.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_11.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_110.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_111.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_112.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_113.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_114.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_115.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_116.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_117.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_118.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_119.txt
+Tone of File 1: fear
+Tone of File 2: joy
+
+File: response_12.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_120.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_121.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_122.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_123.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_124.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_125.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_126.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_127.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_128.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_129.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_13.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_130.txt
+Tone of File 1: joy
+Tone of File 2: fear
+
+File: response_131.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_132.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_133.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_134.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_135.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_136.txt
+Tone of File 1: fear
+Tone of File 2: anger
+
+File: response_137.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_138.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_139.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_14.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_140.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_141.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_142.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_143.txt
+Tone of File 1: joy
+Tone of File 2: fear
+
+File: response_144.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_145.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_146.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_147.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_148.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_149.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_15.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_150.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_151.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_152.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_153.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_154.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_155.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_156.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_157.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_158.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_159.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_16.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_160.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_161.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_162.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_163.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_164.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_165.txt
+Tone of File 1: sadness
+Tone of File 2: love
+
+File: response_166.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_167.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_168.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_169.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_17.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_170.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_171.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_172.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_173.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_174.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_175.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_176.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_177.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_178.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_179.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_18.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_180.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_181.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_182.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_183.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_184.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_185.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_186.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_187.txt
+Tone of File 1: fear
+Tone of File 2: fear
+
+File: response_188.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_189.txt
+Tone of File 1: fear
+Tone of File 2: fear
+
+File: response_19.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_190.txt
+Tone of File 1: fear
+Tone of File 2: fear
+
+File: response_191.txt
+Tone of File 1: love
+Tone of File 2: anger
+
+File: response_192.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_193.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_194.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_195.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_196.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_197.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_198.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_199.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_2.txt
+Tone of File 1: joy
+Tone of File 2: love
+
+File: response_20.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_200.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_201.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_202.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_203.txt
+Tone of File 1: joy
+Tone of File 2: love
+
+File: response_204.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_205.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_206.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_207.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_208.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_209.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_21.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_210.txt
+Tone of File 1: joy
+Tone of File 2: love
+
+File: response_211.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_212.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_213.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_214.txt
+Tone of File 1: anger
+Tone of File 2: fear
+
+File: response_215.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_216.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_217.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_218.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_219.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_22.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_220.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_221.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_222.txt
+Tone of File 1: joy
+Tone of File 2: anger
+
+File: response_223.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_224.txt
+Tone of File 1: love
+Tone of File 2: fear
+
+File: response_225.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_226.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_227.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_228.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_229.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_23.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_230.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_231.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_232.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_233.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_234.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_235.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_236.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_237.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_238.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_239.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_24.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_240.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_241.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_242.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_243.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_244.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_245.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_246.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_247.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_248.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_249.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_25.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_250.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_251.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_252.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_253.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_254.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_255.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_256.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_257.txt
+Tone of File 1: anger
+Tone of File 2: joy
+
+File: response_258.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_259.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_26.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_260.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_261.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_262.txt
+Tone of File 1: fear
+Tone of File 2: joy
+
+File: response_263.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_264.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_265.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_266.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_267.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_268.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_269.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_27.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_270.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_271.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_272.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_273.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_274.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_275.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_276.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_277.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_278.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_279.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_28.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_280.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_281.txt
+Tone of File 1: anger
+Tone of File 2: fear
+
+File: response_282.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_283.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_284.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_285.txt
+Tone of File 1: joy
+Tone of File 2: love
+
+File: response_286.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_287.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_288.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_289.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_29.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_290.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_291.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_292.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_293.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_294.txt
+Tone of File 1: sadness
+Tone of File 2: anger
+
+File: response_295.txt
+Tone of File 1: anger
+Tone of File 2: sadness
+
+File: response_296.txt
+Tone of File 1: anger
+Tone of File 2: fear
+
+File: response_297.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_298.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_299.txt
+Tone of File 1: anger
+Tone of File 2: sadness
+
+File: response_3.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_30.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_300.txt
+Tone of File 1: fear
+Tone of File 2: anger
+
+File: response_301.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_302.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_303.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_304.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_305.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_306.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_307.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_308.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_309.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_31.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_310.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_311.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_312.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_313.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_314.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_315.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_316.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_317.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_318.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_319.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_32.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_320.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_321.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_322.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_323.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_324.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_325.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_326.txt
+Tone of File 1: love
+Tone of File 2: sadness
+
+File: response_327.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_328.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_329.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_33.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_330.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_331.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_332.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_333.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_334.txt
+Tone of File 1: fear
+Tone of File 2: fear
+
+File: response_335.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_336.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_337.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_338.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_339.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_34.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_340.txt
+Tone of File 1: joy
+Tone of File 2: fear
+
+File: response_341.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_342.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_343.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_344.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_345.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_346.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_347.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_348.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_349.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_35.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_36.txt
+Tone of File 1: joy
+Tone of File 2: love
+
+File: response_37.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_38.txt
+Tone of File 1: anger
+Tone of File 2: joy
+
+File: response_39.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_4.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_40.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_41.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_42.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_43.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_44.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_45.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_46.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_47.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_48.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_49.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_5.txt
+Tone of File 1: love
+Tone of File 2: sadness
+
+File: response_50.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_51.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_52.txt
+Tone of File 1: joy
+Tone of File 2: fear
+
+File: response_53.txt
+Tone of File 1: joy
+Tone of File 2: fear
+
+File: response_54.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_55.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_56.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_57.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_58.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_59.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_6.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_60.txt
+Tone of File 1: joy
+Tone of File 2: anger
+
+File: response_61.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_62.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_63.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_64.txt
+Tone of File 1: love
+Tone of File 2: joy
+
+File: response_65.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_66.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_67.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_68.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_69.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_7.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_70.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_71.txt
+Tone of File 1: fear
+Tone of File 2: sadness
+
+File: response_72.txt
+Tone of File 1: sadness
+Tone of File 2: sadness
+
+File: response_73.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_74.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_75.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_76.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_77.txt
+Tone of File 1: anger
+Tone of File 2: sadness
+
+File: response_78.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_79.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_8.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_80.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_81.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_82.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_83.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_84.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_85.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_86.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_87.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_88.txt
+Tone of File 1: joy
+Tone of File 2: sadness
+
+File: response_89.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_9.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_90.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_91.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_92.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_93.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_94.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_95.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_96.txt
+Tone of File 1: joy
+Tone of File 2: joy
+
+File: response_97.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
+File: response_98.txt
+Tone of File 1: sadness
+Tone of File 2: fear
+
+File: response_99.txt
+Tone of File 1: sadness
+Tone of File 2: joy
+
